@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO training/output
+runs/
+*.pt
+
+# Dataset
+dataset/
+fire-smoke-detection.v1-v1.yolov8/
+
+# VS Code
+.vscode/
+
+# Audio
+*.wav

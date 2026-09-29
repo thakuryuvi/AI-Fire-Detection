@@ -1,0 +1,1 @@
+print("AI Fire Detection Project Started")
